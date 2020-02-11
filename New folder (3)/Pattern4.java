@@ -1,4 +1,6 @@
-    public class Pattern4 {
+    package exam;
+
+public class pryamid {
         public static void main(String[] args) {
             int rows = 5, k = 0;
             for(int i = 1; i <= rows; ++i, k = 0) {
